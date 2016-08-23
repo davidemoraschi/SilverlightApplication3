@@ -1,0 +1,12 @@
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\Bin\Release\SilverlightApplication3.dll
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\Bin\Release\SilverlightApplication3.pdb
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\Bin\Release\AppManifest.xaml
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\Bin\Release\SilverlightApplication3.xap
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\Bin\Release\SilverlightApplication3TestPage.html
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\obj\Release\ResolveAssemblyReference.cache
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\obj\Release\App.g.i.cs
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\obj\Release\MainPage.g.i.cs
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\obj\Release\SilverlightApplication3.g.resources
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\obj\Release\SilverlightApplication3.dll
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\obj\Release\SilverlightApplication3.pdb
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\obj\Release\XapCacheFile.xml

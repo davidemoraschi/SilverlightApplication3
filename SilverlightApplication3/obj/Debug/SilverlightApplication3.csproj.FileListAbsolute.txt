@@ -1,0 +1,12 @@
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\Bin\Debug\SilverlightApplication3.dll
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\Bin\Debug\SilverlightApplication3.pdb
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\Bin\Debug\AppManifest.xaml
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\Bin\Debug\SilverlightApplication3.xap
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\Bin\Debug\SilverlightApplication3TestPage.html
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\obj\Debug\ResolveAssemblyReference.cache
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\obj\Debug\App.g.i.cs
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\obj\Debug\MainPage.g.i.cs
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\obj\Debug\SilverlightApplication3.g.resources
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\obj\Debug\SilverlightApplication3.dll
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\obj\Debug\SilverlightApplication3.pdb
+i:\visual studio 2010\Projects\SilverlightApplication3\SilverlightApplication3\obj\Debug\XapCacheFile.xml
